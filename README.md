@@ -1,3 +1,6 @@
 # Simple Object Tracking - OpenCv (color based)
-Projeto inicial de vis„o computacional de um seguidor de objetos com base em cores.
-Como a trackbar È possivel selecionar o espectro da mascara de captura, com isso È possivel isolar o objeto em quest„o. Esse tipo de tÈcnica de permite seguir objetos em movimento com facilidade.
+Projeto inicial de vis√£o computacional de um seguidor de objetos com base em cores.
+Como a trackbar √© possivel selecionar o espectro da mascara de captura, com isso √© possivel isolar o objeto em quest√£o. Esse tipo de t√©cnica permite selecionar o objeto a ser seguido com base na cor, essa √© uma boa maneira de isolar objetos em movimento sem comprometer muito a carga de processamento.
+
+<img src = "https://github.com/marcy3ait/VisaoComputacional/blob/master/im1.jpeg" height ="640" width ="480">
+
